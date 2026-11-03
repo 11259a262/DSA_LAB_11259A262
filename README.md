@@ -1,66 +1,56 @@
 # DSA_LAB_11259A262
 
-Data Structures and Algorithms (DSA / VSA) Laboratory repository for Student Register Number **11259A262**.
+Data Structures and Algorithms (DSA) Laboratory repository for Student Register Number **11259A262**.
 
-This repository contains all 12 complete C programming lab assignments, structured into dedicated folders with clean C source code and corresponding compiled Windows executables.
+This repository contains ONLY the Data Structures and Algorithms laboratory programs, organized into dedicated experiment folders with complete C source code and compiled executables.
 
 ---
 
-## Lab Programs Index
+## Experiments Index
 
-| No. | Program Name | Source Code | Executable |
+| Experiment | Program Name | Source Code | Executable |
 |:---:|:---|:---:|:---:|
-| 01 | Implementation of Basic Array Operations (Insertion, Deletion, Traversal) | [Program_01.c](VSA-C-Programs/Program_01/Program_01.c) | [Program_01.exe](VSA-C-Programs/Program_01/Program_01.exe) |
-| 02 | Dynamic Employee Record System using Structure Pointers | [Program_02.c](VSA-C-Programs/Program_02/Program_02.c) | [Program_02.exe](VSA-C-Programs/Program_02/Program_02.exe) |
-| 03 | Stack and Expression Conversion (Infix to Postfix) | [Program_03.c](VSA-C-Programs/Program_03/Program_03.c) | [Program_03.exe](VSA-C-Programs/Program_03/Program_03.exe) |
-| 04 | Postfix Expression Evaluation using Stack | [Program_04.c](VSA-C-Programs/Program_04/Program_04.c) | [Program_04.exe](VSA-C-Programs/Program_04/Program_04.exe) |
-| 05 | Queue Implementation using Array | [Program_05.c](VSA-C-Programs/Program_05/Program_05.c) | [Program_05.exe](VSA-C-Programs/Program_05/Program_05.exe) |
-| 06 | Priority Queue using Unordered Array | [Program_06.c](VSA-C-Programs/Program_06/Program_06.c) | [Program_06.exe](VSA-C-Programs/Program_06/Program_06.exe) |
-| 07 | Singly Linked List (Insertion, Deletion, Traversal) | [Program_07.c](VSA-C-Programs/Program_07/Program_07.c) | [Program_07.exe](VSA-C-Programs/Program_07/Program_07.exe) |
-| 08 | Circular Queue using Linked List | [Program_08.c](VSA-C-Programs/Program_08/Program_08.c) | [Program_08.exe](VSA-C-Programs/Program_08/Program_08.exe) |
-| 09 | Binary Search Tree Traversal (In-order, Pre-order, Post-order, Level-order) | [Program_09.c](VSA-C-Programs/Program_09/Program_09.c) | [Program_09.exe](VSA-C-Programs/Program_09/Program_09.exe) |
-| 10 | Graph Search Algorithms (Breadth First Search & Depth First Search) | [Program_10.c](VSA-C-Programs/Program_10/Program_10.c) | [Program_10.exe](VSA-C-Programs/Program_10/Program_10.exe) |
-| 11 | Sorting Algorithms (Bubble, Selection, and Heap Sorts) | [Program_11.c](VSA-C-Programs/Program_11/Program_11.c) | [Program_11.exe](VSA-C-Programs/Program_11/Program_11.exe) |
-| 12 | Hashing with Collision Resolution using Linear Probing | [Program_12.c](VSA-C-Programs/Program_12/Program_12.c) | [Program_12.exe](VSA-C-Programs/Program_12/Program_12.exe) |
+| **EXP_01** | Implementation of Basic Array Operations (Insertion, Deletion, Traversal) | [`EXP_01/11259A262_DSA_EXP_01.c`](EXP_01/11259A262_DSA_EXP_01.c) | [`EXP_01/11259A262_DSA_EXP_01.exe`](EXP_01/11259A262_DSA_EXP_01.exe) |
+| **EXP_02** | Dynamic Employee Record System using Structure Pointers | [`EXP_02/11259A262_DSA_EXP_02.c`](EXP_02/11259A262_DSA_EXP_02.c) | [`EXP_02/11259A262_DSA_EXP_02.exe`](EXP_02/11259A262_DSA_EXP_02.exe) |
+| **EXP_03** | Stack and Expression Conversion (Infix to Postfix) | [`EXP_03/11259A262_DSA_EXP_03.c`](EXP_03/11259A262_DSA_EXP_03.c) | [`EXP_03/11259A262_DSA_EXP_03.exe`](EXP_03/11259A262_DSA_EXP_03.exe) |
+| **EXP_04** | Postfix Expression Evaluation using Stack | [`EXP_04/11259A262_DSA_EXP_04.c`](EXP_04/11259A262_DSA_EXP_04.c) | [`EXP_04/11259A262_DSA_EXP_04.exe`](EXP_04/11259A262_DSA_EXP_04.exe) |
+| **EXP_05** | Queue Implementation using Array | [`EXP_05/11259A262_DSA_EXP_05.c`](EXP_05/11259A262_DSA_EXP_05.c) | [`EXP_05/11259A262_DSA_EXP_05.exe`](EXP_05/11259A262_DSA_EXP_05.exe) |
+| **EXP_06** | Priority Queue using Unordered Array | [`EXP_06/11259A262_DSA_EXP_06.c`](EXP_06/11259A262_DSA_EXP_06.c) | [`EXP_06/11259A262_DSA_EXP_06.exe`](EXP_06/11259A262_DSA_EXP_06.exe) |
+| **EXP_07** | Singly Linked List (Insertion, Deletion, Traversal) | [`EXP_07/11259A262_DSA_EXP_07.c`](EXP_07/11259A262_DSA_EXP_07.c) | [`EXP_07/11259A262_DSA_EXP_07.exe`](EXP_07/11259A262_DSA_EXP_07.exe) |
+| **EXP_08** | Circular Queue using Linked List | [`EXP_08/11259A262_DSA_EXP_08.c`](EXP_08/11259A262_DSA_EXP_08.c) | [`EXP_08/11259A262_DSA_EXP_08.exe`](EXP_08/11259A262_DSA_EXP_08.exe) |
+| **EXP_09** | Binary Search Tree Traversal (In-order, Pre-order, Post-order, Level-order) | [`EXP_09/11259A262_DSA_EXP_09.c`](EXP_09/11259A262_DSA_EXP_09.c) | [`EXP_09/11259A262_DSA_EXP_09.exe`](EXP_09/11259A262_DSA_EXP_09.exe) |
+| **EXP_10** | Graph Search Algorithms (Breadth First Search & Depth First Search) | [`EXP_10/11259A262_DSA_EXP_10.c`](EXP_10/11259A262_DSA_EXP_10.c) | [`EXP_10/11259A262_DSA_EXP_10.exe`](EXP_10/11259A262_DSA_EXP_10.exe) |
+| **EXP_11** | Sorting Algorithms (Bubble, Selection, and Heap Sorts) | [`EXP_11/11259A262_DSA_EXP_11.c`](EXP_11/11259A262_DSA_EXP_11.c) | [`EXP_11/11259A262_DSA_EXP_11.exe`](EXP_11/11259A262_DSA_EXP_11.exe) |
+| **EXP_12** | Hashing with Collision Resolution using Linear Probing | [`EXP_12/11259A262_DSA_EXP_12.c`](EXP_12/11259A262_DSA_EXP_12.c) | [`EXP_12/11259A262_DSA_EXP_12.exe`](EXP_12/11259A262_DSA_EXP_12.exe) |
 
 ---
 
-## Repository Structure
+## Directory Structure
 
 ```text
 DSA_LAB_11259A262/
 ├── README.md
 ├── DSA_Lab_Manual_copy.pdf
-└── VSA-C-Programs/
-    ├── README.md
-    ├── Program_01/
-    ├── Program_02/
-    ├── Program_03/
-    ├── Program_04/
-    ├── Program_05/
-    ├── Program_06/
-    ├── Program_07/
-    ├── Program_08/
-    ├── Program_09/
-    ├── Program_10/
-    ├── Program_11/
-    └── Program_12/
+├── EXP_01/
+│   ├── 11259A262_DSA_EXP_01.c
+│   └── 11259A262_DSA_EXP_01.exe
+├── EXP_02/
+│   ├── 11259A262_DSA_EXP_02.c
+│   └── 11259A262_DSA_EXP_02.exe
+├── ...
+└── EXP_12/
+    ├── 11259A262_DSA_EXP_12.c
+    └── 11259A262_DSA_EXP_12.exe
 ```
 
 ---
 
-## Requirements & Environment
+## Requirements & Compilation
 
-- **OS:** Windows 10 / 11
 - **Compiler:** GCC (MinGW)
-- **C Standard:** C99 / C11
-
----
-
-## Compilation & Execution
-
-```bash
-cd VSA-C-Programs/Program_01
-gcc Program_01.c -o Program_01.exe
-./Program_01.exe
-```
+- **Compilation example:**
+  ```bash
+  cd EXP_01
+  gcc 11259A262_DSA_EXP_01.c -o 11259A262_DSA_EXP_01.exe
+  ./11259A262_DSA_EXP_01.exe
+  ```
